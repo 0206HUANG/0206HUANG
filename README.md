@@ -15,7 +15,7 @@ A Student studyying at Universiti Teknologi Malaysia
 
 * Education Background
 
-* Secondary School (e.g., Beijing No. 4 High School)
+* Secondary School （ZHU HAI NO.1 High School）
 
   Gaokao Science: 550 points
   English Proficiency: CET-4
