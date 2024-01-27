@@ -25,8 +25,6 @@ A Student studyying at Universiti Teknologi Malaysia
   Advanced Academic English Test: 6
   Extracurricular Activities
 
-  Secondary School (e.g., Zhuhai No. 1 High School)
-
   Vice Chairman of the Library
   Member of the Red Cross Society
   Award in Mathematics
