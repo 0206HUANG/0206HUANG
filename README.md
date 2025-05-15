@@ -8,7 +8,7 @@ A Student studyying at Universiti Teknologi Malaysia
 * 🖥️  See my portfolio at [MyPortfolio](http://0206HUANG.github.io)
 * ✉️  You can contact me at [bosheng@graduate.utm.my](mailto:bosheng@graduate.utm.my)
 * 🚀  I'm currently working on [Universiti Teknologi Malaysia](http://my.utm.my)
-* 🧠  I'm learning C++ and mySQL
+* 🧠  I'm learning flutter
 * 🤝  I'm open to collaborating on interesting projects
 
 
