@@ -101,7 +101,6 @@ const bosheng = {
 |---|---|
 | 🏛️ **Universiti Teknologi Malaysia** | B.Sc. Computer Science (Software Engineering) |
 | 📘 **UTMSPACE JB** | Foundation · GPA 3.5 · Advanced Academic English Test: 6 |
-| 🏫 **Zhuhai No.1 High School** | Science stream · Vice Chairman of the Library · Red Cross Society member · Mathematics award |
 
 <div align="center">
 
