@@ -85,12 +85,13 @@ const bosheng = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=0206HUANG&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&title_color=22d3ee&icon_color=818cf8" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0206HUANG&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=22d3ee" alt="Top languages" />
-
 <img src="https://streak-stats.demolab.com/?user=0206HUANG&hide_border=true&theme=tokyonight&ring=22d3ee&fire=f472b6&currStreakLabel=22d3ee" alt="GitHub streak" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=0206HUANG&hide_border=true&theme=tokyo-night&color=22d3ee&line=818cf8&point=f472b6" alt="Contribution graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0206HUANG/0206HUANG/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0206HUANG/0206HUANG/output/snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/0206HUANG/0206HUANG/output/snake.svg" />
+</picture>
 
 </div>
 
