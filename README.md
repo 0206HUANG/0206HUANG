@@ -2,9 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=22D3EE&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+HUANG+BOSHENG+%F0%9F%91%8B;Full-Stack+Developer;Flutter+%26+Mobile+Developer;AI+Application+Builder" alt="Typing SVG" />
 
-<a href="https://0206huang.github.io"><img src="https://img.shields.io/badge/Portfolio-0206huang.github.io-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="mailto:bosheng@graduate.utm.my"><img src="https://img.shields.io/badge/Email-bosheng@graduate.utm.my-818cf8?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.instagram.com/0206_bosheng/"><img src="https://img.shields.io/badge/Instagram-@0206__bosheng-f472b6?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:0206bosheng@gmail.com"><img src="https://img.shields.io/badge/Email-0206bosheng@gmail.com-818cf8?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
