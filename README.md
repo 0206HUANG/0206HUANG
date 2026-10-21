@@ -13,7 +13,6 @@
 ```ts
 const bosheng = {
   education: "B.Sc. Computer Science (Software Engineering) @ UTM",
-  location:  "Johor Bahru, Malaysia",
   mobile:    ["Flutter", "Dart", "Firebase", "HarmonyOS ArkTS"],
   web:       ["Next.js", "React", "TypeScript", "Laravel", "Tailwind"],
   backend:   ["Python", "FastAPI", "Node.js", "PHP", "Java Spring MVC"],
@@ -55,11 +54,9 @@ const bosheng = {
 
 | Project | Description | Stack |
 |---|---|---|
-| 🛰️ [**UTM E-Report System**](https://github.com/xr-lim/UTM_e-Report_System) | Campus security platform: a mobile app for incident reports and an emergency button, an admin portal with heatmaps, and AI licence-plate recognition | `Flutter` `Firebase` `Laravel` `React` `Python AI` |
 | 🏠 [**REMS: Real Estate Management**](https://github.com/Vennise-Own-Project/REMS) | Property platform for sellers and buyers built with Laravel and a React SPA | `Laravel` `Inertia.js` `React` `Tailwind` `MySQL` |
 | ✅ [**Task Manager**](https://github.com/0206HUANG/SC_Assignment_2) | Full-stack task app with categories, priorities, filters and a statistics dashboard | `Next.js 14` `Prisma` `SQLite` `Tailwind` |
 | 🎓 [**EduStreamHub**](https://github.com/0206HUANG/PROJECT-OF-internet-project) | Education content platform with admin and teacher dashboards, school management and content uploads | `Java` `Spring MVC` `JSP` `Maven` |
-| 🏨 [**Hostel Management System**](https://github.com/0206HUANG/wp-project-hostel) | Student hostel booking with room details, profiles, an admin dashboard and access logs | `PHP` `MySQL` `JavaScript` |
 
 ### 📱 Mobile
 
