@@ -2,8 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=22D3EE&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+HUANG+BOSHENG+%F0%9F%91%8B;Full-Stack+Developer;Flutter+%26+Mobile+Developer;AI+Application+Builder" alt="Typing SVG" />
 
-**Software Engineering student @ Universiti Teknologi Malaysia · Johor Bahru, Malaysia**
-
 <a href="https://0206huang.github.io"><img src="https://img.shields.io/badge/Portfolio-0206huang.github.io-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="mailto:bosheng@graduate.utm.my"><img src="https://img.shields.io/badge/Email-bosheng@graduate.utm.my-818cf8?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.instagram.com/0206_bosheng/"><img src="https://img.shields.io/badge/Instagram-@0206__bosheng-f472b6?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -75,12 +73,6 @@ const bosheng = {
 | 🎮 [**Pokémon Tap Evolution**](https://github.com/0206HUANG/pokemon) | Tap game with moving targets, combos, dynamic weather, power-ups and particle effects | `Flutter` `Dart` |
 | 🧪 **Flutter App Lab** | [Chat app](https://github.com/0206HUANG/chatApp) · [Gemini chatbot](https://github.com/0206HUANG/Gemini) · [Trip.com UI clone](https://github.com/0206HUANG/trip.com) · [Shopping cart](https://github.com/0206HUANG/ShoppingCart) · [Firebase integration](https://github.com/0206HUANG/firebaseIntegration) · [Forms](https://github.com/0206HUANG/form) | `Flutter` `Firebase` `Gemini API` |
 
-### 📚 Coursework
-
-- [**Year 1 · Semester 2**](https://github.com/0206HUANG/year1sem2): Programming Technique II (C++), Discrete Structure, System Analysis & Design, Technology & Information System, Database
-- [**Database (SECD2523)**](https://github.com/IzyanIzzatiK/SECD2523-06): database design labs and project
-- [**Data Structures & Algorithms**](https://github.com/0206HUANG/DSA_project): C++ DSA project
-
 ## 📊 GitHub stats
 
 <div align="center">
@@ -94,13 +86,6 @@ const bosheng = {
 </picture>
 
 </div>
-
-## 🎓 Education
-
-| | |
-|---|---|
-| 🏛️ **Universiti Teknologi Malaysia** | B.Sc. Computer Science (Software Engineering) |
-| 📘 **UTMSPACE JB** | Foundation · GPA 3.5 · Advanced Academic English Test: 6 |
 
 <div align="center">
 
