@@ -12,13 +12,11 @@
 
 ```ts
 const bosheng = {
-  education: "B.Sc. Computer Science (Software Engineering) @ UTM",
   mobile:    ["Flutter", "Dart", "Firebase", "HarmonyOS ArkTS"],
   web:       ["Next.js", "React", "TypeScript", "Laravel", "Tailwind"],
   backend:   ["Python", "FastAPI", "Node.js", "PHP", "Java Spring MVC"],
   ai:        ["LLM APIs", "RAG + pgvector", "OpenCV", "Computer Vision"],
   shipping:  ["Docker", "Cloudflare", "Git"],
-  lookingFor: "Internships & interesting collaborations",
 };
 ```
 
