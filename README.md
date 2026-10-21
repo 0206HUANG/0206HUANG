@@ -47,6 +47,7 @@ const bosheng = {
 |---|---|---|
 | 📧 [**Enterprise Email AI Hosting**](https://github.com/0206HUANG/docs) | SaaS that classifies incoming company email, retrieves knowledge with RAG, drafts replies and routes messages by rules. Fully async IMAP → queue → pipeline → SMTP, with a human-review queue for sensitive mail | `FastAPI` `PostgreSQL + pgvector` `Redis / ARQ` `Next.js` `Docker` `Caddy` |
 | 🛍️ [**AI E-commerce Design Agent**](https://github.com/0206HUANG/AIShenZhen) | MVP of an AI agent that generates product marketing images through a scenario-routing workflow and a design rule library | `Next.js 16` `React 19` `TypeScript` `Tailwind v4` `Cloudflare D1` `Drizzle` |
+| 📦 **DHL Knowledge Base Platform** | AI knowledge automation for DHL logistics (DAC 3.0 Challenge): turns messy chat exports, notes and portal screenshots into versioned, searchable KB articles with text structuring, image OCR, conflict checks and a UiPath bot that ingests files automatically | `React 19` `Vite` `TypeScript` `json-server` `DeepSeek` `GPT-4o` `UiPath` |
 | 🏎️ [**Hack2Drive 2026: Real-Time Self-Driving**](https://github.com/Vennise-Own-Project/RTSE_LIZ) | Real-time control system for a Unity driving simulator: screen-capture perception with computer vision, lane and event detection, and tactical steering under strict timing | `Python` `OpenCV` `NumPy` `Tesseract` `Unity` |
 | 🌦️ [**SmartWeather**](https://github.com/0206HUANG/smartweather) | Weather-risk alerts from a rule-based inference engine, with a traceable decision path and scenario demos | `React 18` `Vite` |
 
